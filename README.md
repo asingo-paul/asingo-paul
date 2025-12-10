@@ -87,36 +87,5 @@ while (alive) {
    build();
    deploy();
 }
-
-
-
----
-
-### 🔥 Bonus: How to make the snake animation work
-
-Create a workflow file:
-
-**`.github/workflows/snake.yml`**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: asingo-paul
-          outputs: dist/github-contribution-grid-snake.svg
-      - name: Push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generate snake animation"
+"
 
