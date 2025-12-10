@@ -1,16 +1,47 @@
-## Hi there 👋
+# About Me
 
-<!--
-**asingo-paul/asingo-paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I’m Paul Asingo — a Software / DevOps Engineer based in Nairobi, Kenya.  
+I love working with Python, AWS, and building scalable infrastructure and automation pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tech Stack
+
+**Backend & DevOps**  
+- Python · AWS · Docker · CI/CD · Infrastructure as Code (Terraform / CloudFormation)  
+- Linux / Bash scripting · Monitoring & Logging · Automation  
+
+**Other Tools & Interests**  
+- Git · GitHub · Version control & collaboration  
+- Configuration management & cloud orchestration  
+- Learning new tools and best practices in DevOps / cloud engineering  
+
+---
+
+## 🔭 What I’m working on / interested in
+
+- Building and maintaining AWS-based infrastructure & automation for reliable, scalable services  
+- Exploring serverless architectures and container orchestration  
+- Improving deployment pipelines; ensuring infrastructure as code, reliability, and performance  
+- Contributing to open-source / community DevOps / infrastructure tooling (when I find time)  
+
+---
+
+## 📫 How to reach me
+
+- 📧 Email: your-email@example.com  
+- 🔗 LinkedIn: [your-linkedin-profile](https://www.linkedin.com)  
+- 💬 GitHub: [asingo-paul](https://github.com/asingo-paul)  
+
+---
+
+## ⚡ Fun fact / Side interests
+
+When I'm not coding or automating infrastructure, I enjoy:  
+- Reading about cloud architecture, distributed systems, serverless patterns  
+- Exploring new Python libraries and tooling  
+- Maybe someday open-sourcing a library or project that helps other devs/DevOps engineers 💡  
+
+---
+
+
