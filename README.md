@@ -1,47 +1,89 @@
-# About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Engineer+☁️;AWS+%7C+DevOps+%7C+Python+Engineer;Building+Scalable+Systems;Learning+Every+Day&center=true&width=500&height=45">
+</p>
 
-👋 Hello! I’m Paul Asingo — a Software / DevOps Engineer based in Nairobi, Kenya.  
-I love working with Python, AWS, and building scalable infrastructure and automation pipelines.
+<h1 align="center">Hi 👋, I'm Paul Asingo</h1>
+<h3 align="center">AWS Cloud & DevOps Engineer | Python Developer</h3>
 
----
-
-## 🛠️ Skills & Tech Stack
-
-**Backend & DevOps**  
-- Python · AWS · Docker · CI/CD · Infrastructure as Code (Terraform / CloudFormation)  
-- Linux / Bash scripting · Monitoring & Logging · Automation  
-
-**Other Tools & Interests**  
-- Git · GitHub · Version control & collaboration  
-- Configuration management & cloud orchestration  
-- Learning new tools and best practices in DevOps / cloud engineering  
+<p align="center">
+  <a href="https://github.com/asingo-paul">
+    <img src="https://komarev.com/ghpvc/?username=asingo-paul&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## 🔭 What I’m working on / interested in
+## 🚀 About Me
 
-- Building and maintaining AWS-based infrastructure & automation for reliable, scalable services  
-- Exploring serverless architectures and container orchestration  
-- Improving deployment pipelines; ensuring infrastructure as code, reliability, and performance  
-- Contributing to open-source / community DevOps / infrastructure tooling (when I find time)  
+I'm a passionate **Cloud & DevOps Engineer** who loves building highly available, scalable, and secure infrastructure.  
+I focus on **AWS, automation, CI/CD, and Python development**.
 
----
-
-## 📫 How to reach me
-
-- 📧 Email: your-email@example.com  
-- 🔗 LinkedIn: [your-linkedin-profile](https://www.linkedin.com)  
-- 💬 GitHub: [asingo-paul](https://github.com/asingo-paul)  
+- 🔭 Currently working on cloud-native & infrastructure automation projects  
+- 🌱 Learning Kubernetes, advanced Terraform, and system design  
+- 💡 Interested in serverless, microservices, and reliability engineering  
+- ⚡ Fun fact: I automate things before I repeat them  
 
 ---
 
-## ⚡ Fun fact / Side interests
+## 🛠️ Tech Stack
 
-When I'm not coding or automating infrastructure, I enjoy:  
-- Reading about cloud architecture, distributed systems, serverless patterns  
-- Exploring new Python libraries and tooling  
-- Maybe someday open-sourcing a library or project that helps other devs/DevOps engineers 💡  
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### Programming & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
 ---
 
+## 📊 GitHub Stats (Animated)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asingo-paul&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asingo-paul&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asingo-paul&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asingo-paul&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Zone
+
+```bash
+while (alive) {
+   learn();
+   build();
+   deploy();
+}
